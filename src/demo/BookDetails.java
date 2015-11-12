@@ -1,7 +1,7 @@
 package demo;
 
 /**
- * Created by 145896M on 10/29/2015.
+ * Created by chitboon on 10/23/15.
  */
 public class BookDetails {
     private String bookId = null;
